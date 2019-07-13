@@ -60,6 +60,7 @@ public:
 	}
 };
  
+
 class B :public A
 {
 public:
@@ -83,6 +84,7 @@ int main()
 	return 0;
 }
 //Person和Student中_num形成混淆，需要指定作用域
+
 class Person
 {
 protected:
