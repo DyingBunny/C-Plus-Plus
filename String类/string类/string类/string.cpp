@@ -429,7 +429,6 @@ private:
 void TestString()
 {
 	String s1("hello world");
-	cout << s2<< endl;
 }
 
 int main()
